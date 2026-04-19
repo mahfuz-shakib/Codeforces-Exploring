@@ -1,2 +1,2 @@
-# Codeforces-Hunting
+# Codeforces-Exploring........
 Codeforces problem's solution
